@@ -51,8 +51,8 @@ jobs:
         uses: actions/configure-pages@v2
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-          #- name: Export resume as PDF
-          # run: ./create_pdf.sh
+      - name: Export resume as PDF
+        run: ./create_pdf.sh
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules

@@ -152,4 +152,12 @@ My expertise lies in systems design and software development. I've focused heavi
     '''
     Created web scrapers using BeautifulSoup, Selenium, and Python to sift through court documents to build a comprehensive framework of data that will allow users to more easily manage their legal schedule.
     ''']
+
+    [[page.education]]
+    remove_border = true
+    institution = "University of Florida"
+    degree = "Bachelor of Science in Computer Science"
+    location = "Gainesville, Florida"
+    start_date = "2012"
+    end_date = "2016"
 +++
