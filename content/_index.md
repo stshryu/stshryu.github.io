@@ -123,6 +123,7 @@ My expertise lies in systems design and software development. I've focused heavi
     '''
     Designed and wrote code for3 an OpenID Connect SSO integration for a large monolith project. Integrations with Facebook, Google, and LinkedIn meant I had to design a system that could take access and identity tokens and handle opened sessions and IAM.
     ''',
+    '''
     Wrote code in ASP.NET Core to build out basic features for our end-user experience.
     ''']
 
