@@ -13,8 +13,8 @@ linkedin = "yoo-steve"
 github = "stshryu"
 keybase = ""
 quote = '''
-My expertise lies in systems design and software development. I've focused heavily on creating maintainable code, redudcing the developer friction during onboarding and during every-day feature development and bugfixing.
- I've broken apart monoliths into microservices and consolidated fractured projects into unifed codebases. I've created massive API's with third party integrations designed to scale with business needs, while also creating endpoints for a better end-user experience.
+My expertise lies in systems design and software development. I've focused heavily on creating maintainable code, reducing the developer friction during onboarding and during every-day feature development and bugfixing.
+ I've broken apart monoliths into microservices and consolidated fractured projects into unified codebases. I've created massive API's with third party integrations designed to scale with business needs, while also creating endpoints for a better end-user experience.
  This drive to ensure that the developer experience is clean and easy is one of my main goals as an engineer, ensuring that the code that we write is maintainable and understandable not just in the present, but going on into the future.
 '''
 
@@ -121,7 +121,7 @@ My expertise lies in systems design and software development. I've focused heavi
     end_date = "Apr 2019"
     duties = [
     '''
-    Designed and wrote code for3 an OpenID Connect SSO integration for a large monolith project. Integrations with Facebook, Google, and LinkedIn meant I had to design a system that could take access and identity tokens and handle opened sessions and IAM.
+    Designed and wrote code for an OpenID Connect SSO integration for a large monolith project. Integrations with Facebook, Google, and LinkedIn meant I had to design a system that could take access and identity tokens and handle opened sessions and IAM.
     ''',
     '''
     Wrote code in ASP.NET Core to build out basic features for our end-user experience.
