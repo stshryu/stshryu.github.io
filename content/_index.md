@@ -72,7 +72,7 @@ My expertise lies in systems design and software development. I've focused heavi
     Contributed to a product led growth team on deliverables, taking customer requirements, building and implementing UI/UX changes, setting up middleware, and codifying backend logic.
     ''',
     '''
-    Helped run code culture sessions to help on-board new and experienced developers with best practices and basic Test Driven Development principles for cleaner more robust codebases. This included a book club that went over various technical readings in a strucutred, informative manner.
+    Helped run code culture sessions to help on-board new and experienced developers with best practices and basic Test Driven Development principles for cleaner more robust codebases. This included a book club that went over various technical readings in a structured, informative manner.
     '''
     ]
     
@@ -93,7 +93,7 @@ My expertise lies in systems design and software development. I've focused heavi
     Built and maintained serverless Javascript AWS Lambdas and worked with Terraform to streamline a full CI/CD pipeline.
     ''',
     '''
-    Worked with NSIS to create an installable launcher that clients could download to install our cloud platform integration to their onsite dentistry platform. This included liasing with techs and IT specialists to ensure our installations would work.
+    Worked with NSIS to create an installable launcher that clients could download to install our cloud platform integration to their onsite dentistry platform. This included liaising with techs and IT specialists to ensure our installations would work.
     ''']
 
     [[page.history]]
@@ -136,7 +136,7 @@ My expertise lies in systems design and software development. I've focused heavi
     end_date = "Sep 2017"
     duties = [
     '''
-    Wrote features in PHP, Javscript and MySQL to bring client requirements to life.
+    Wrote features in PHP, Javascript and MySQL to bring client requirements to life.
     ''',
     '''
     Wrote and maintained Selenium based web-automation testing suites for our UI to ensure changes wouldn't break existing workflows.
