@@ -129,6 +129,7 @@ My expertise lies in systems design and software development. I've focused heavi
     Created a Covid-19 credentialing response portal that was sandboxed and deployed within the NHS servers on Azure to allow for emergency on-boarding of necessary healthcare personnel during the initial influx of covid patients.
     ''']
 
+[[page]]
     [[page.history]]
     company_name = "SumTotal Systems LLC"
     location = "Gainesville, Florida"
@@ -143,7 +144,6 @@ My expertise lies in systems design and software development. I've focused heavi
     Wrote code in ASP.NET Core to build out basic features for our end-user experience.
     ''']
 
-[[page]]
     [[page.history]]
     company_name = "Wear Interactive"
     location = "Gainesville, Florida"
@@ -168,6 +168,19 @@ My expertise lies in systems design and software development. I've focused heavi
     '''
     Created web scrapers using BeautifulSoup, Selenium, and Python to sift through court documents to build a comprehensive framework of data that will allow users to more easily manage their legal schedule.
     ''']
+
+    [[page.certifications]]
+    remove_border = true
+    certification_name = "AWS Solutions Architect Associatei SAA-C03"
+    title = "Associate"
+    start_date = "2024"
+    end_date = "In Progress"
+    location = "Virtual"
+    details = [
+    '''
+    Comprehensive knowledge of the AWS Cloud ecosystem and how to engineer and create cost effective solutions to cloud computing needs.
+    '''
+    ]
 
     [[page.education]]
     remove_border = true
