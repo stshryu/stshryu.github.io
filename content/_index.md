@@ -55,6 +55,22 @@ My expertise lies in systems design and software development. I've focused heavi
     skills = '''
     OpenId, JWT, Zero-knowledge proofs, Datadog, Database Normalization, Hyperledger Indy 
     '''
+
+    [[page.history]] 
+    company_name = "Contracting"
+    start_date = "Sept 2023"
+    end_date = "Ongoing"
+    location = "Remote"
+    job_title = "Software Engineering Contracting/Consulting"
+    duties = [
+    '''
+    Various industry contracting jobs ranging from building proof of concept software, to creating webservers and their underlying architecture.
+    ''',
+    '''
+    Consulting design principles and systems design concepts, specifically focused on microservices architecture and domain driven design.
+    '''
+    ]
+
     [[page.history]]
     company_name = "Bonusly"
     start_date = "Oct 2021"
