@@ -76,7 +76,7 @@ My expertise lies in systems design and software development. I've focused heavi
     start_date = "Oct 2021"
     end_date = "Dec 2023"
     location = "Boulder, Colorado"
-    job_title = "Software Engineer III"
+    job_title = "Senior Software Engineer (Software Engineer III)"
     duties = [
     '''
     Applied monolith to microservices design principles to split large codebases into developer friendly, more manageable small function microservices with robust and clean documentation for ease of handoff once the microservice has been completed.
