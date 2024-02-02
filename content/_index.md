@@ -22,13 +22,13 @@ My expertise lies in systems design and software development. I've focused heavi
     [[page.expertise]]
     category = "Programming"
     skills = '''
-    Bash, Python, Ruby, C#, Javascript, C++, Golang, Rust, Typescript
+    Bash, Python, Ruby, C#, Javascript, C++, Golang, Rust, Typescript, Java
     '''
 
     [[page.expertise]]
     category = "Frameworks and Libraries"
     skills = '''
-    Django Rest Framework, Ruby on Rails, Flask, scikit-learn, Merge.dev, Godot/GDScript
+    Django Rest Framework, Ruby on Rails, Flask, scikit-learn, Merge.dev, Godot/GDScript, .NET
     '''
 
     [[page.expertise]]
@@ -57,14 +57,14 @@ My expertise lies in systems design and software development. I've focused heavi
     '''
 
     [[page.history]] 
-    company_name = "Contracting"
-    start_date = "Sept 2023"
+    company_name = "Consulting/Contracting"
+    start_date = "2023"
     end_date = "Ongoing"
     location = "Remote"
     job_title = "Software Engineering Contracting/Consulting"
     duties = [
     '''
-    Various industry contracting jobs ranging from building proof of concept software, to creating webservers and their underlying architecture.
+    Industry contracting jobs ranging from building proof of concept software, to creating webservers and their underlying architecture.
     ''',
     '''
     Consulting design principles and systems design concepts, specifically focused on microservices architecture and domain driven design.
@@ -74,7 +74,7 @@ My expertise lies in systems design and software development. I've focused heavi
     [[page.history]]
     company_name = "Bonusly"
     start_date = "Oct 2021"
-    end_date = "Mar 2023"
+    end_date = "Dec 2023"
     location = "Boulder, Colorado"
     job_title = "Software Engineer III"
     duties = [
