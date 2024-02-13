@@ -171,7 +171,7 @@ My expertise lies in systems design and software development. I've focused heavi
 
     [[page.certifications]]
     remove_border = true
-    certification_name = "AWS Solutions Architect Associatei SAA-C03"
+    certification_name = "AWS Solutions Architect Associate SAA-C03"
     title = "Associate"
     start_date = "2024"
     end_date = "In Progress"
