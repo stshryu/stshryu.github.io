@@ -73,8 +73,8 @@ My expertise lies in systems design and software development. I've focused heavi
 
     [[page.history]]
     company_name = "Bonusly"
-    start_date = "Oct 2021"
-    end_date = "Dec 2023"
+    start_date = "2021"
+    end_date = "2023"
     location = "Boulder, Colorado"
     job_title = "Senior Software Engineer (Software Engineer III)"
     duties = [
@@ -94,8 +94,8 @@ My expertise lies in systems design and software development. I've focused heavi
     
     [[page.history]]
     company_name = "StudioLabs Inc"
-    start_date = "Sep 2020"
-    end_date = "Oct 2021"
+    start_date = "2020"
+    end_date = "2021"
     location = "New York, New York"
     job_title = "Software Engineer II"
     duties = [
@@ -116,8 +116,8 @@ My expertise lies in systems design and software development. I've focused heavi
     company_name = "truu"
     location = "New York, New York"
     job_title = "Lead Technical Architect"
-    start_date = "Apr 2019"
-    end_date = "May 2020"
+    start_date = "2019"
+    end_date = "2020"
     duties = [
     '''
     Designed the infrastructure of a digital credentialing service built upon the Hyperledger Indy platforms with the goal of facilitating fast and efficient hospital onboarding.
@@ -134,8 +134,8 @@ My expertise lies in systems design and software development. I've focused heavi
     company_name = "SumTotal Systems LLC"
     location = "Gainesville, Florida"
     job_title = "Software Engineer I"
-    start_date = "Feb 2018"
-    end_date = "Apr 2019"
+    start_date = "2018"
+    end_date = "2019"
     duties = [
     '''
     Designed and wrote code for an OpenID Connect SSO integration for a large monolith project. Integrations with Facebook, Google, and LinkedIn meant I had to design a system that could take access and identity tokens and handle opened sessions and IAM.
@@ -162,8 +162,8 @@ My expertise lies in systems design and software development. I've focused heavi
     company_name = "Legalist Inc"
     location = "Gainesville, Florida"
     job_title = "Software Engineer - Contractor"
-    start_date = "Jun 2015"
-    end_date = "Nov 2016"
+    start_date = "2015"
+    end_date = "2016"
     duties = [
     '''
     Created web scrapers using BeautifulSoup, Selenium, and Python to sift through court documents to build a comprehensive framework of data that will allow users to more easily manage their legal schedule.
