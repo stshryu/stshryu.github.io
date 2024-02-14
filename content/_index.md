@@ -148,8 +148,8 @@ My expertise lies in systems design and software development. I've focused heavi
     company_name = "Wear Interactive"
     location = "Gainesville, Florida"
     job_title = "Software Engineer I"
-    start_date = "Dec 2016"
-    end_date = "Sep 2017"
+    start_date = "2016"
+    end_date = "2017"
     duties = [
     '''
     Wrote features in PHP, Javascript and MySQL to bring client requirements to life.
