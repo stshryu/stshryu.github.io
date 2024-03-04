@@ -28,13 +28,13 @@ My expertise lies in systems design and software development. I've focused heavi
     [[page.expertise]]
     category = "Frameworks and Libraries"
     skills = '''
-    Django Rest Framework, Ruby on Rails, Flask, scikit-learn, Merge.dev, Godot/GDScript, .NET
+    Django Rest Framework, Ruby on Rails, Flask, scikit-learn, Merge.dev, Godot/GDScript, FastAPI, .NET Core, React, Nest
     '''
 
     [[page.expertise]]
     category = "Technologies"
     skills = '''
-    Git, Terraform, PostgreSQL, Selenium, BeautifulSoup4, Docker, Ansible, Vagrant, GraphQL, Kubernetes, Kafka, Jenkins, NSIS
+    Git, Terraform, PostgreSQL, MongoDB, Microsoft SQL Server, SQLAlchemy, Selenium, BeautifulSoup4, Docker, Ansible, Vagrant, GraphQL, Kubernetes, Kafka, Jenkins, NSIS
     '''
 
     [[page.expertise]]
