@@ -88,6 +88,9 @@ My expertise lies in systems design and software development. I've focused heavi
     Wrote proof of concepts and minimum viable products in Python, prototyping Django, Flask and FastAPI microservices.
     ''',
     '''
+    Implemented a feature flagging process and dashboard to allow selective rollout of features to specific end-users using LaunchDarkly. Wrote documentation and process guidelines to help non-technical product owners and stakeholders turn features on and off without requiring code changes.
+    ''',
+    '''
     Contributed to a product led growth team on deliverables, taking customer requirements, building and implementing UI/UX changes, setting up middleware, and codifying backend logic.
     ''',
     '''
