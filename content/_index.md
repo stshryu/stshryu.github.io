@@ -85,7 +85,7 @@ My expertise lies in systems design and software development. I've focused heavi
     Implemented and maintained a user management microservce using third party integrations to seamlessly integrate multiple HRIS systems into a legacy codebase in Rails.
     ''',
     '''
-    Wrote proof of concepts and minimum viable products in Python, prototyping Django, Flask and FastAPI.
+    Wrote proof of concepts and minimum viable products in Python, prototyping Django, Flask and FastAPI microservices.
     ''',
     '''
     Contributed to a product led growth team on deliverables, taking customer requirements, building and implementing UI/UX changes, setting up middleware, and codifying backend logic.
@@ -109,10 +109,7 @@ My expertise lies in systems design and software development. I've focused heavi
     Worked with legacy API's to build scalable solutions to seamlessly integrate cloud based platforms with fully onsite legacy dentistry platforms like Henry Schein and OpenDental. The goal was to create an end user-experience that was untouched, despite a completely reworked backend system.
     ''',
     '''
-    Wrote serverless code on AWS using Lambdas with Typescript and Python to manage cloud platform operations.
-    ''',
-    '''
-    Built and maintained serverless Javascript AWS Lambdas and worked with Terraform to streamline a full CI/CD pipeline.
+    Built and maintained serverless Javascript/Typescript and Python AWS Lambdas and worked with Terraform to streamline a full CI/CD pipeline.
     ''',
     '''
     Worked with NSIS to create an installable launcher that clients could download to install our cloud platform integration to their onsite dentistry platform. This included liaising with techs and IT specialists to ensure our installations would work.
