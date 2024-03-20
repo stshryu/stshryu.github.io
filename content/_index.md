@@ -85,6 +85,9 @@ My expertise lies in systems design and software development. I've focused heavi
     Implemented and maintained a user management microservce using third party integrations to seamlessly integrate multiple HRIS systems into a legacy codebase in Rails.
     ''',
     '''
+    Wrote proof of concepts and minimum viable products in Python, prototyping Django, Flask and FastAPI.
+    ''',
+    '''
     Contributed to a product led growth team on deliverables, taking customer requirements, building and implementing UI/UX changes, setting up middleware, and codifying backend logic.
     ''',
     '''
@@ -104,6 +107,9 @@ My expertise lies in systems design and software development. I've focused heavi
     ''',
     '''
     Worked with legacy API's to build scalable solutions to seamlessly integrate cloud based platforms with fully onsite legacy dentistry platforms like Henry Schein and OpenDental. The goal was to create an end user-experience that was untouched, despite a completely reworked backend system.
+    ''',
+    '''
+    Wrote serverless code on AWS using Lambdas with Typescript and Python to manage cloud platform operations.
     ''',
     '''
     Built and maintained serverless Javascript AWS Lambdas and worked with Terraform to streamline a full CI/CD pipeline.
@@ -126,7 +132,7 @@ My expertise lies in systems design and software development. I've focused heavi
     Oversaw two pilots with NHS hospitals that included various deployments through Azure as well as 24/7 on call support for the platform while doctors, nurses and other healthcare personnel used the platform to onboard.
     ''',
     '''
-    Created a Covid-19 credentialing response portal that was sandboxed and deployed within the NHS servers on Azure to allow for emergency on-boarding of necessary healthcare personnel during the initial influx of covid patients.
+    Created a Covid-19 credentialing response portal written in Django and React that was sandboxed and deployed within the NHS servers on Azure to allow for emergency on-boarding of necessary healthcare personnel during the initial influx of covid patients.
     ''']
 
 [[page]]
