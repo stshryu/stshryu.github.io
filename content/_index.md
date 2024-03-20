@@ -115,6 +115,7 @@ My expertise lies in systems design and software development. I've focused heavi
     Worked with NSIS to create an installable launcher that clients could download to install our cloud platform integration to their onsite dentistry platform. This included liaising with techs and IT specialists to ensure our installations would work.
     ''']
 
+[[page]]
     [[page.history]]
     company_name = "truu"
     location = "New York, New York"
@@ -132,7 +133,6 @@ My expertise lies in systems design and software development. I've focused heavi
     Created a Covid-19 credentialing response portal written in Django and React that was sandboxed and deployed within the NHS servers on Azure to allow for emergency on-boarding of necessary healthcare personnel during the initial influx of covid patients.
     ''']
 
-[[page]]
     [[page.history]]
     company_name = "SumTotal Systems LLC"
     location = "Gainesville, Florida"
