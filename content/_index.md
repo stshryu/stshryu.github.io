@@ -57,18 +57,15 @@ My expertise lies in systems design and software development. I've focused heavi
     '''
 
     [[page.history]] 
-    company_name = "Consulting/Contracting"
-    start_date = "2023"
-    end_date = "Ongoing"
-    location = "Remote"
-    job_title = "Software Engineering Contracting/Consulting"
+    company_name = "Nirvana"
+    start_date = "2024"
+    end_date = "Present"
+    location = "New York, New York"
+    job_title = "Senior Software Engineer (Integrations)"
     duties = [
     '''
-    Industry contracting jobs ranging from building proof of concept software, to creating webservers and their underlying architecture.
+    Creating, implementing and maintaining integrations between EHR's.
     ''',
-    '''
-    Consulting design principles and systems design concepts, specifically focused on microservices architecture and domain driven design.
-    '''
     ]
 
     [[page.history]]
@@ -76,7 +73,7 @@ My expertise lies in systems design and software development. I've focused heavi
     start_date = "2021"
     end_date = "2023"
     location = "Boulder, Colorado"
-    job_title = "Senior Software Engineer (Software Engineer III)"
+    job_title = "Software Engineer III"
     duties = [
     '''
     Applied monolith to microservices design principles to split large codebases into developer friendly, more manageable small function microservices with robust and clean documentation for ease of handoff once the microservice has been completed.
