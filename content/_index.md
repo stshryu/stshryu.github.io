@@ -22,25 +22,25 @@ My expertise lies in systems design and software development. I've focused heavi
     [[page.expertise]]
     category = "Programming"
     skills = '''
-    Bash, Python, Ruby, C#, Javascript, C++, Golang, Rust, Typescript, Java
+    Bash, Python, Ruby, C#, Javascript, C++, Golang, Rust, Typescript, Java, GDScript
     '''
 
     [[page.expertise]]
     category = "Frameworks and Libraries"
     skills = '''
-    Django Rest Framework, Ruby on Rails, Flask, scikit-learn, Merge.dev, Godot/GDScript, FastAPI, .NET Core, React, Nest
+    Django Rest Framework, Ruby on Rails, Flask, scikit-learn, Merge.dev, Godot/GDScript, FastAPI, .NET Core, React, Nest, Godot, RPA Builder, Selenium, Playwright
     '''
 
     [[page.expertise]]
     category = "Technologies"
     skills = '''
-    Git, Terraform, PostgreSQL, MongoDB, Microsoft SQL Server, SQLAlchemy, Selenium, BeautifulSoup4, Docker, Ansible, Vagrant, GraphQL, Kubernetes, Kafka, Jenkins, NSIS
+    Git, Terraform, PostgreSQL, MongoDB, Microsoft SQL Server, SQLAlchemy, Selenium, BeautifulSoup4, Docker, Ansible, Vagrant, GraphQL, Kubernetes, Kafka, Jenkins, NSIS, MuleSoft, SalesForce
     '''
 
     [[page.expertise]]
     category = "AWS Services"
     skills = '''
-    Lambda, RDS, Cloudwatch, S3 
+    Lambda, RDS, CloudWatch, S3 
     '''
 
     [[page.expertise]]
@@ -53,7 +53,7 @@ My expertise lies in systems design and software development. I've focused heavi
     remove_border = true
     category = "Other"
     skills = '''
-    OpenId, JWT, Zero-knowledge proofs, Datadog, Database Normalization, Hyperledger Indy 
+    OpenId, JWT, Zero-knowledge proofs, Datadog, Database Normalization, Hyperledger Indy, Game Design
     '''
 
     [[page.history]] 
@@ -172,16 +172,16 @@ My expertise lies in systems design and software development. I've focused heavi
     Created web scrapers using BeautifulSoup, Selenium, and Python to sift through court documents to build a comprehensive framework of data that will allow users to more easily manage their legal schedule.
     ''']
 
-    [[page.certifications]]
+    [[page.activities]]
     remove_border = true
-    certification_name = "AWS Solutions Architect Associate SAA-C03"
-    title = "Associate"
-    start_date = "2024"
-    end_date = "In Progress"
-    location = "Virtual"
+    name = "Game Development"
+    title = "Independent Developer"
     details = [
     '''
-    Comprehensive knowledge of the AWS Cloud ecosystem and how to engineer and create cost effective solutions to cloud computing needs.
+    Prototyped and worked on games of varying sizes, handling the internal coding logic, animation wireframes and player UI/UX.
+    ''',
+    '''
+    Learned and understood Godot (and the underlying GDScript) at a level to be able to design games at a high level. Also actively contributed to the forums to help others on the game.
     '''
     ]
 
