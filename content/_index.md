@@ -181,7 +181,7 @@ My expertise lies in systems design and software development. I've focused heavi
     Prototyped and worked on games of varying sizes, handling the internal coding logic, animation wireframes and player UI/UX.
     ''',
     '''
-    Learned and understood Godot (and the underlying GDScript) at a level to be able to design games at a high level. Also actively contributed to the forums to help others on the game.
+    Learned and understood Godot (and the underlying GDScript) at a level to be able to design games at a high level. Also actively contributed to the forums to help others create their own games.
     '''
     ]
 
