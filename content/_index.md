@@ -22,7 +22,7 @@ My expertise lies in systems design and software development. I've focused heavi
     [[page.expertise]]
     category = "Programming"
     skills = '''
-    Bash, Python, Ruby, C#, Javascript, C++, Golang, Rust, Typescript, Java, GDScript
+    Bash, Python, Ruby, C#, C++, Golang, Rust, Typescript, Java, GDScript
     '''
 
     [[page.expertise]]
@@ -34,13 +34,13 @@ My expertise lies in systems design and software development. I've focused heavi
     [[page.expertise]]
     category = "Technologies"
     skills = '''
-    Git, Terraform, PostgreSQL, MongoDB, Microsoft SQL Server, SQLAlchemy, Selenium, BeautifulSoup4, Docker, Ansible, Vagrant, GraphQL, Kubernetes, Kafka, Jenkins, NSIS, MuleSoft, SalesForce
+    Git, Terraform, PostgreSQL, MongoDB, Microsoft SQL Server, SQLAlchemy, Selenium, BeautifulSoup4, Docker, Ansible, Vagrant, GraphQL, Kubernetes, Kafka, Jenkins, NSIS, MuleSoft, SalesForce, Dagster
     '''
 
     [[page.expertise]]
     category = "AWS Services"
     skills = '''
-    Lambda, RDS, CloudWatch, S3 
+    Lambda, RDS, CloudWatch, S3, SNS
     '''
 
     [[page.expertise]]
@@ -64,7 +64,16 @@ My expertise lies in systems design and software development. I've focused heavi
     job_title = "Senior Software Engineer (Integrations)"
     duties = [
     '''
-    Creating, implementing and maintaining integrations between EHR's.
+    Maintained an inherited codebase integrating electronic health record (EHR) platforms for an automated bulk workflow check on patient coverage of benefits status in a legacy Django application. Orchestrated scaling with Celery and Flower to handle clients that had bulk workflows numbering in the hundreds of thousands at certain times each day to ensure their billers have all the information they need.
+    ''',
+    '''
+    Ran triage and black box testing on third party integrations in order to quickly spin up processes that allowed the company to iterate quickly based on client demands. Built bespoke solutions to clients (that relied on shared infrastructure) in order to maximize our client satisfaction, while maintaining clean extensible code.
+    ''',
+    '''
+    Implemented API's that parsed clearinghouse data to scrape patient benefits and construct a response to our consumers that lets them run benefits checks easily.
+    ''',
+    '''
+    Wrote RPA's using Mulesoft that will let us orchestrate actions into systems that may not have outward APIs we can integrate with. The RPA's were scaled on the cloud and could essentially function as an API endpoint for our clients that could be triggered to start the process.
     ''',
     ]
 
