@@ -67,6 +67,9 @@ My expertise lies in systems design and software development. I've focused heavi
     Maintained an inherited codebase integrating electronic health record (EHR) platforms for an automated bulk workflow check on patient coverage of benefits status in a legacy Django application. Orchestrated scaling with Celery and Flower to handle clients that had bulk workflows numbering in the hundreds of thousands at certain times each day to ensure their billers have all the information they need.
     ''',
     '''
+    Created internal dashboards designed to give transparency into our systems. Our engineers, product and customer support teams should all be able to access important information (regardless of technical acumen) within the scope of their roles that will help them deliver the best product they can. 
+    ''',
+    '''
     Ran triage and black box testing on third party integrations in order to quickly spin up processes that allowed the company to iterate quickly based on client demands. Built bespoke solutions to clients (that relied on shared infrastructure) in order to maximize our client satisfaction, while maintaining clean extensible code.
     ''',
     '''
@@ -104,6 +107,7 @@ My expertise lies in systems design and software development. I've focused heavi
     '''
     ]
     
+[[page]]
     [[page.history]]
     company_name = "StudioLabs Inc"
     start_date = "2020"
@@ -124,7 +128,6 @@ My expertise lies in systems design and software development. I've focused heavi
     Worked with NSIS to create an installable launcher that clients could download to install our cloud platform integration to their onsite dentistry platform. This included liaising with techs and IT specialists to ensure our installations would work.
     ''']
 
-[[page]]
     [[page.history]]
     company_name = "truu"
     location = "New York, New York"
