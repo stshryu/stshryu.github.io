@@ -57,9 +57,21 @@ My expertise lies in systems design and software development. I've focused heavi
     '''
 
     [[page.history]] 
+    company_name = "Venmo"
+    start_date = "2025"
+    end_date = "Present"
+    location = "New York, New York"
+    job_title = "MTS 1, Sr. Software Engineer"
+    duties = [
+    '''
+    Current Role
+    ''',
+    ]
+
+    [[page.history]] 
     company_name = "Nirvana"
     start_date = "2024"
-    end_date = "Present"
+    end_date = "2025"
     location = "New York, New York"
     job_title = "Senior Software Engineer (Integrations)"
     duties = [
