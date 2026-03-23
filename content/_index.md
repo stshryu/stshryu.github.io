@@ -34,7 +34,7 @@ My expertise lies in systems design and software development. I've focused heavi
     [[page.expertise]]
     category = "Technologies"
     skills = '''
-    Git, Terraform, PostgreSQL, MongoDB, Microsoft SQL Server, SQLAlchemy, Selenium, BeautifulSoup4, Docker, Ansible, Vagrant, GraphQL, Kubernetes, Kafka, Jenkins, NSIS, MuleSoft, SalesForce, Dagster
+    Git, Terraform, PostgreSQL, MongoDB, Microsoft SQL Server, SQLAlchemy, Selenium, BeautifulSoup4, Docker, Ansible, Vagrant, GraphQL, Kubernetes, Kafka, Jenkins, NSIS, MuleSoft, SalesForce, Dagster, Datadog
     '''
 
     [[page.expertise]]
