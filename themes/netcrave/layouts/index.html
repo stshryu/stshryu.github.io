@@ -81,6 +81,9 @@
                     {{ with .Params.github }}
                     <li><a href="https://github.com/{{ . }}" class="social-icon"><i class="fa-brands fa-github"></i><span class="github">stshryu</span></a></li>
                     {{ end }}
+                    {{ with .Params.gitlab }}
+                    <li><a href="https://gitlab.com/{{ . }}" class="social-icon"><i class-"fa-brands fa-gitlab"></i><span class="gitlab">stshryu</span></a></li>
+                    {{ end }} 
                     {{ with .Params.telephone }}
                     <li><a href="tel:{{ . }}" class="social-icon"><i class="fa-solid fa-phone"></i><span class="phone">+1-406-214-7920</span></a></li>
                     {{ end }}
