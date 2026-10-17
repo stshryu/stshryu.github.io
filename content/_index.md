@@ -197,6 +197,7 @@ My expertise lies in systems design and software development. I've focused heavi
     Created web scrapers using BeautifulSoup, Selenium, and Python to sift through court documents to build a comprehensive framework of data that will allow users to more easily manage their legal schedule.
     ''']
 
+[[page]]
     [[page.activities]]
     remove_border = true
     name = "Game Development"
