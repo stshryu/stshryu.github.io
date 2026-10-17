@@ -35,13 +35,13 @@ My expertise lies in systems design and software development. I've focused heavi
     [[page.expertise]]
     category = "Technologies"
     skills = '''
-    Git, Terraform, PostgreSQL, MongoDB, Microsoft SQL Server, SQLAlchemy, Selenium, BeautifulSoup4, Docker, Ansible, Vagrant, GraphQL, Kubernetes, Kafka, Jenkins, NSIS, MuleSoft, SalesForce, Dagster, Datadog
+    Git, Terraform, PostgreSQL, MongoDB, Microsoft SQL Server, SQLAlchemy, Selenium, BeautifulSoup4, Docker, Ansible, Vagrant, GraphQL, Kubernetes, Kafka, Jenkins, NSIS, MuleSoft, SalesForce, Dagster, Datadog, Minikube
     '''
 
     [[page.expertise]]
-    category = "AWS Services"
+    category = "AWS Expertise"
     skills = '''
-    Lambda, RDS, CloudWatch, S3, SNS
+    CDK Stack Development, Lambda, RDS, CloudWatch, S3, SNS and SQS Event Driven Architecture, SES Delivery and Management, Firehose Fanout
     '''
 
     [[page.expertise]]
