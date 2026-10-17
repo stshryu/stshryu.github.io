@@ -93,6 +93,7 @@ My expertise lies in systems design and software development. I've focused heavi
     ''',
     ]
 
+[[page]]
     [[page.history]]
     company_name = "Bonusly"
     start_date = "2021"
@@ -120,7 +121,6 @@ My expertise lies in systems design and software development. I've focused heavi
     '''
     ]
     
-[[page]]
     [[page.history]]
     company_name = "StudioLabs Inc"
     start_date = "2020"
